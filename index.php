@@ -409,7 +409,7 @@
         </span>
 
         <a
-            href="tel:+18333719939"
+            href="tel:+18886881218"
             class="nav-call">
             📞 Call Now
         </a>
@@ -441,11 +441,11 @@
             </p>
 
             <a
-                href="tel:+18333719939"
+                href="tel:+18886881218"
                 class="support-btn">
 
                 📞 Call Support:
-				+1 (833) 371-9939
+				+1 (888) 688-1218
 
             </a>
 
@@ -581,7 +581,7 @@
         </p>
 
         <a
-            href="tel:+18333719939"
+            href="tel:+18886881218"
             class="support-btn">
 
             📞 Call for Printer Support
@@ -960,7 +960,7 @@
             Contact Us
         </a>
 
-        <a href="tel:+18333719939">
+        <a href="tel:+18886881218">
             Call Support
         </a>
 
@@ -1006,3 +1006,4 @@
 
 </body>
 </html>
+	
